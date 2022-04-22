@@ -9,3 +9,4 @@ hello git
 hello git hot-fix 
 >>>>>>> hot-fix
 hello git
+new line
