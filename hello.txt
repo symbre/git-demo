@@ -4,5 +4,8 @@ hello git
 hello git
 hello git
 hello git
-hello git master
+<<<<<<< HEAD
+=======
+hello git hot-fix 
+>>>>>>> hot-fix
 hello git
